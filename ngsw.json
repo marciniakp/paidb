@@ -9,7 +9,7 @@
       "urls": [
         "https://marciniakp.github.io/paidb/favicon.ico",
         "https://marciniakp.github.io/paidb/index.html",
-        "https://marciniakp.github.io/paidb/main.8cc7941bec0b55a50f60.js",
+        "https://marciniakp.github.io/paidb/main.e3c7664df0239553504c.js",
         "https://marciniakp.github.io/paidb/polyfills.2f4a59095805af02bd79.js",
         "https://marciniakp.github.io/paidb/runtime.a66f828dca56eeb90e02.js",
         "https://marciniakp.github.io/paidb/styles.fe918dd490d0e9a6b924.css"
@@ -39,7 +39,7 @@
     {
       "name": "clock-api",
       "patterns": [
-        "https:\\/\\/worldclockapi\\.com\\/api\\/jsonp\\/cet\\/now\\?callback=mycallback"
+        "http:\\/\\/paidb\\.aihavv89ih\\.eu-central-1\\.elasticbeanstalk\\.com\\/time"
       ],
       "strategy": "freshness",
       "maxSize": 2000,
@@ -58,8 +58,8 @@
     "https://marciniakp.github.io/paidb/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://marciniakp.github.io/paidb/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://marciniakp.github.io/paidb/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://marciniakp.github.io/paidb/index.html": "166338e77697b7eb2f361b6e00266c0771e09dfd",
-    "https://marciniakp.github.io/paidb/main.8cc7941bec0b55a50f60.js": "dd3b0a914923253865e1973165d422ce3887943a",
+    "https://marciniakp.github.io/paidb/index.html": "f9cabaf62aab61a0621e355aff849168d347923f",
+    "https://marciniakp.github.io/paidb/main.e3c7664df0239553504c.js": "52856174d0e7efcb9c989ff45766a822af3b2942",
     "https://marciniakp.github.io/paidb/polyfills.2f4a59095805af02bd79.js": "8949bb1b1e302dda246f6ed9c2da703270360b1f",
     "https://marciniakp.github.io/paidb/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "https://marciniakp.github.io/paidb/styles.fe918dd490d0e9a6b924.css": "2316d897a945ac07c0cac1fd3a5277555ff85cde"
